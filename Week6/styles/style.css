@@ -1,0 +1,179 @@
+#actice {
+    background-color: darkseagreen;
+}
+
+
+
+#just{
+    float: left;
+    border: 1px solid grey; 
+    margin-right: 300px;
+    
+}
+
+
+p{
+    color: white;
+}
+
+
+
+
+
+.col_detail {
+    color: white;
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 50px;
+    padding: 2px;
+}
+
+
+
+h2{
+    color: white;
+    text-align: center;
+
+}
+h3{
+    color: white;
+
+}
+
+
+aside ul li {
+    list-style-type: none;
+}
+aside ol li {
+    list-style-type: none;
+}
+
+
+
+aside ul li a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+html{
+    background-color: black;
+    margin: 5px;
+}
+
+
+
+#bigPic{
+    width: 100%;
+}
+
+
+#aboutUs{
+    text-align: center;
+    color: white;
+    background-color: black;    
+}
+#aboutUs{
+    background-color: black;
+}
+
+
+
+#content {
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid grey; 
+    background-color: black;
+}
+
+
+aside{
+    float: right;
+    color: white;
+    border: 1px solid grey; 
+    background-color: black;
+    padding: 55px;
+
+
+}
+
+
+caption{
+    text-align: center;
+}
+
+section table{
+    width: 100%;
+    border-color: black;
+    border-width: 1px;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+
+    
+header{
+    background-image: url(../images/header_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color:navajowhite;
+    border: 1px solid blue;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+    
+}
+
+nav {
+
+    padding: 5px;
+    border: 2px solid green;
+    border-radius: 5px;
+    background-color: dimgray;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color:  #B2B2B2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+
+    
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color:  #8E8E8E;
+}
+
+footer{
+    clear: both;
+    border: 1px solid orange;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
+#bottom li{
+    background-color: #696969;
+}
